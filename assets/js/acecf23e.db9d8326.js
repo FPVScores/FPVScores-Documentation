@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfpvscores_documentation=self.webpackChunkfpvscores_documentation||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/FPVScores-Documentation/blog","blogTitle":"Blog","authorsListPath":"/FPVScores-Documentation/blog/authors"}')}}]);
