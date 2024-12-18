@@ -1,0 +1,27 @@
+{
+  "id": "fpvscores-event-manager/upload-logo",
+  "title": "Upload Logo",
+  "description": "Let's register your organisation on the FPVScores Platform.",
+  "source": "@site/docs/fpvscores-event-manager/upload-logo.md",
+  "sourceDirName": "fpvscores-event-manager",
+  "slug": "/fpvscores-event-manager/upload-logo",
+  "permalink": "/docs/fpvscores-event-manager/upload-logo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/fpvscores-event-manager/upload-logo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Organisation",
+    "permalink": "/docs/fpvscores-event-manager/create-organisation"
+  },
+  "next": {
+    "title": "Add Location",
+    "permalink": "/docs/fpvscores-event-manager/add-location"
+  }
+}

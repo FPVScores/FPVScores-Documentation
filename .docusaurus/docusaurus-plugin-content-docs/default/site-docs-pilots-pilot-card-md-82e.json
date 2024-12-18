@@ -1,0 +1,27 @@
+{
+  "id": "pilots/pilot-card",
+  "title": "Pilot Card",
+  "description": "Set your ELRS Bindphrase and/or TBS Fusion MAC address in your account so it can be scanned into the Rotorhazard laptimer with your QR code. This allows the race director to send lap times to your goggles OSD.",
+  "source": "@site/docs/pilots/pilot-card.md",
+  "sourceDirName": "pilots",
+  "slug": "/pilots/pilot-card",
+  "permalink": "/docs/pilots/pilot-card",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/pilots/pilot-card.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OSD Lap Times",
+    "permalink": "/docs/pilots/set-pilot-osd"
+  },
+  "next": {
+    "title": "Event Manager",
+    "permalink": "/docs/category/event-manager"
+  }
+}

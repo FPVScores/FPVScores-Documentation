@@ -1,0 +1,27 @@
+{
+  "id": "pilots/change-avatar",
+  "title": "Change Avatar",
+  "description": "Personalize your FPVScores profile by uploading your avatar.",
+  "source": "@site/docs/pilots/change-avatar.md",
+  "sourceDirName": "pilots",
+  "slug": "/pilots/change-avatar",
+  "permalink": "/docs/pilots/change-avatar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/pilots/change-avatar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Account",
+    "permalink": "/docs/pilots/create-account"
+  },
+  "next": {
+    "title": "OSD Lap Times",
+    "permalink": "/docs/pilots/set-pilot-osd"
+  }
+}

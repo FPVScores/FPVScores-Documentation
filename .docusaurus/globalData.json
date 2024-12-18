@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction",
+          "docs": [
+            {
+              "id": "fpvscores-event-manager/add-location",
+              "path": "/docs/fpvscores-event-manager/add-location",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpvscores-event-manager/create-organisation",
+              "path": "/docs/fpvscores-event-manager/create-organisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpvscores-event-manager/upload-logo",
+              "path": "/docs/fpvscores-event-manager/upload-logo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpvscores-sync-plugin/install",
+              "path": "/docs/fpvscores-sync-plugin/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fpvscores-sync-plugin/settings",
+              "path": "/docs/fpvscores-sync-plugin/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction",
+              "path": "/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pilots/change-avatar",
+              "path": "/docs/pilots/change-avatar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pilots/create-account",
+              "path": "/docs/pilots/create-account",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pilots/pilot-card",
+              "path": "/docs/pilots/pilot-card",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "pilots/set-pilot-osd",
+              "path": "/docs/pilots/set-pilot-osd",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/pilots",
+              "path": "/docs/category/pilots",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/event-manager",
+              "path": "/docs/category/event-manager",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/sync-plugin",
+              "path": "/docs/category/sync-plugin",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/introduction",
+                "label": "introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

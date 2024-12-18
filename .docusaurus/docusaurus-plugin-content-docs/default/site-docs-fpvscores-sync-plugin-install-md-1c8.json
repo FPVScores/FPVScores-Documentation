@@ -1,0 +1,27 @@
+{
+  "id": "fpvscores-sync-plugin/install",
+  "title": "Install Plugin",
+  "description": "To add and run a plugin, place the plugin's entire directory in /src/server/plugins, and (re)start the server.",
+  "source": "@site/docs/fpvscores-sync-plugin/install.md",
+  "sourceDirName": "fpvscores-sync-plugin",
+  "slug": "/fpvscores-sync-plugin/install",
+  "permalink": "/docs/fpvscores-sync-plugin/install",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/fpvscores-sync-plugin/install.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sync Plugin",
+    "permalink": "/docs/category/sync-plugin"
+  },
+  "next": {
+    "title": "Setup Plugin Settings",
+    "permalink": "/docs/fpvscores-sync-plugin/settings"
+  }
+}

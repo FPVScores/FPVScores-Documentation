@@ -1,0 +1,27 @@
+{
+  "id": "fpvscores-event-manager/add-location",
+  "title": "Add Location",
+  "description": "Let's register your organisation on the FPVScores Platform.",
+  "source": "@site/docs/fpvscores-event-manager/add-location.md",
+  "sourceDirName": "fpvscores-event-manager",
+  "slug": "/fpvscores-event-manager/add-location",
+  "permalink": "/docs/fpvscores-event-manager/add-location",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/fpvscores-event-manager/add-location.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upload Logo",
+    "permalink": "/docs/fpvscores-event-manager/upload-logo"
+  },
+  "next": {
+    "title": "Sync Plugin",
+    "permalink": "/docs/category/sync-plugin"
+  }
+}

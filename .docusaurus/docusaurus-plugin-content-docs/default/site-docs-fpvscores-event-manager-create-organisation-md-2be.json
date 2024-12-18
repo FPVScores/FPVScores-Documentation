@@ -1,0 +1,27 @@
+{
+  "id": "fpvscores-event-manager/create-organisation",
+  "title": "Create Organisation",
+  "description": "Let's register your organisation on the FPVScores Platform.",
+  "source": "@site/docs/fpvscores-event-manager/create-organisation.md",
+  "sourceDirName": "fpvscores-event-manager",
+  "slug": "/fpvscores-event-manager/create-organisation",
+  "permalink": "/docs/fpvscores-event-manager/create-organisation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/fpvscores-event-manager/create-organisation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Event Manager",
+    "permalink": "/docs/category/event-manager"
+  },
+  "next": {
+    "title": "Upload Logo",
+    "permalink": "/docs/fpvscores-event-manager/upload-logo"
+  }
+}
