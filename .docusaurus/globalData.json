@@ -11,33 +11,23 @@
           "mainDocId": "introduction",
           "docs": [
             {
-              "id": "fpvscores-event-manager/add-location",
-              "path": "/docs/fpvscores-event-manager/add-location",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "fpvscores-event-manager/create-organisation",
-              "path": "/docs/fpvscores-event-manager/create-organisation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "fpvscores-event-manager/upload-logo",
-              "path": "/docs/fpvscores-event-manager/upload-logo",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "fpvscores-sync-plugin/install",
-              "path": "/docs/fpvscores-sync-plugin/install",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "fpvscores-sync-plugin/settings",
-              "path": "/docs/fpvscores-sync-plugin/settings",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "introduction",
               "path": "/docs/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "organisations/create-organisation",
+              "path": "/docs/organisations/create-organisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "organisations/locations",
+              "path": "/docs/organisations/locations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "organisations/organisation-settings",
+              "path": "/docs/organisations/organisation-settings",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -61,13 +51,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "sync-plugin/install",
+              "path": "/docs/sync-plugin/install",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "sync-plugin/settings",
+              "path": "/docs/sync-plugin/settings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/pilots",
               "path": "/docs/category/pilots",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/event-manager",
-              "path": "/docs/category/event-manager",
+              "id": "/category/organisations",
+              "path": "/docs/category/organisations",
               "sidebar": "tutorialSidebar"
             },
             {

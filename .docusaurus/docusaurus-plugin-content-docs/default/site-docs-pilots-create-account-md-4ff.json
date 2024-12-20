@@ -1,7 +1,7 @@
 {
   "id": "pilots/create-account",
   "title": "Create Account",
-  "description": "The fun really starts after creating a pilot account on FPVScores.com.",
+  "description": "Start your FPV journey by creating a pilot account on FPVScores.com. Unlock features to enhance your racing experience and connect with the FPV community.",
   "source": "@site/docs/pilots/create-account.md",
   "sourceDirName": "pilots",
   "slug": "/pilots/create-account",

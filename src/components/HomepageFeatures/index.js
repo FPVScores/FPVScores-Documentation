@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'For Pilots',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    ImgSrc: require('@site/static/img/features_fpvpilot.png').default,
     description: (
       <>
         FPVScores is the platform for FPV pilots to register, create profiles, and participate in events. Keep track of your scores and progression.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'For Race Directors',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    ImgSrc: require('@site/static/img/features_fpvpilot.png').default,
     description: (
       <>
         FPVScores gives a cloud solution for lap times during FPV drone racing events. It is easy to use and provides a lot of features.
@@ -23,11 +23,11 @@ const FeatureList = [
   }
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ImgSrc, title, description}) {
   return (
     <div className={clsx('col col--6')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={ImgSrc} className={styles.featureImg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>

@@ -1,7 +1,7 @@
 {
   "id": "introduction",
   "title": "Introduction",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Welcome to the FPVScores Documentation! 🎉",
   "source": "@site/docs/introduction.md",
   "sourceDirName": ".",
   "slug": "/introduction",

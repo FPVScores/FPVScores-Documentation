@@ -1,0 +1,27 @@
+{
+  "id": "organisations/organisation-settings",
+  "title": "Organisation Settings",
+  "description": "Manage your organisation's settings on the FPVScores platform, including updating your logo and editing general organisation details.",
+  "source": "@site/docs/organisations/organisation-settings.md",
+  "sourceDirName": "organisations",
+  "slug": "/organisations/organisation-settings",
+  "permalink": "/docs/organisations/organisation-settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/organisations/organisation-settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Organisation",
+    "permalink": "/docs/organisations/create-organisation"
+  },
+  "next": {
+    "title": "Locations",
+    "permalink": "/docs/organisations/locations"
+  }
+}

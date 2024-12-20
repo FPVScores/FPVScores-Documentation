@@ -55,7 +55,7 @@ export default {
           "position": "left"
         },
         {
-          "to": "/docs/category/event-manager",
+          "to": "/docs/category/organisations",
           "label": "Event Manager",
           "position": "left"
         },

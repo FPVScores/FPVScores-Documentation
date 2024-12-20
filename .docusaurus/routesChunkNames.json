@@ -1,81 +1,124 @@
 {
-  "/markdown-page-3d7": {
-    "__comp": "1f391b9e",
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "a7456010"
-    },
-    "content": "393be207"
-  },
-  "/docs-78b": {
-    "__comp": "5e95c892",
-    "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-557": {
-    "__comp": "a7bd4aaa",
-    "__props": "0058b4c6"
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
   },
-  "/docs-2c5": {
-    "__comp": "a94703ab"
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/docs/category/event-manager-db7": {
-    "__comp": "14eb3368",
-    "__props": "7dff9291"
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-da6": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsaba-d7c"
+    }
+  },
+  "/docs-347": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---docs-005-788"
+  },
+  "/docs-b00": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/organisations-6a3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-organisations-2-e-0-cbd"
   },
   "/docs/category/pilots-997": {
-    "__comp": "14eb3368",
-    "__props": "24fe4b53"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-pilots-24-f-a61"
   },
   "/docs/category/sync-plugin-a52": {
-    "__comp": "14eb3368",
-    "__props": "6dbf4164"
-  },
-  "/docs/fpvscores-event-manager/add-location-bfa": {
-    "__comp": "17896441",
-    "content": "28e06ede"
-  },
-  "/docs/fpvscores-event-manager/create-organisation-145": {
-    "__comp": "17896441",
-    "content": "2be22199"
-  },
-  "/docs/fpvscores-event-manager/upload-logo-faf": {
-    "__comp": "17896441",
-    "content": "8e9381c3"
-  },
-  "/docs/fpvscores-sync-plugin/install-c99": {
-    "__comp": "17896441",
-    "content": "1c876601"
-  },
-  "/docs/fpvscores-sync-plugin/settings-931": {
-    "__comp": "17896441",
-    "content": "49abec52"
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-sync-plugin-6-db-071"
   },
   "/docs/introduction-f7d": {
-    "__comp": "17896441",
-    "content": "a09c2993"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introductiona-09-6b4"
+  },
+  "/docs/organisations/create-organisation-c17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-organisations-create-organisation-0-ad-901"
+  },
+  "/docs/organisations/locations-e51": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-organisations-locationsc-41-529"
+  },
+  "/docs/organisations/organisation-settings-bd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-organisations-organisation-settingseec-65a"
   },
   "/docs/pilots/change-avatar-428": {
-    "__comp": "17896441",
-    "content": "eb77b083"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pilots-change-avatareb-7-a13"
   },
   "/docs/pilots/create-account-acf": {
-    "__comp": "17896441",
-    "content": "4ff4c7c5"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pilots-create-account-4-ff-a13"
   },
   "/docs/pilots/pilot-card-127": {
-    "__comp": "17896441",
-    "content": "82ef77b0"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pilots-pilot-card-82-e-dd6"
   },
   "/docs/pilots/set-pilot-osd-b2b": {
-    "__comp": "17896441",
-    "content": "ceff039f"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-pilots-set-pilot-osdcef-160"
+  },
+  "/docs/sync-plugin/install-ee8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sync-plugin-installe-3-f-9d0"
+  },
+  "/docs/sync-plugin/settings-05a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-sync-plugin-settingscc-1-94b"
   },
   "/-2e1": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---markdown-pagea-74-7b5"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

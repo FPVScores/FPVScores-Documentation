@@ -1,0 +1,27 @@
+{
+  "id": "organisations/locations",
+  "title": "Locations",
+  "description": "Manage your locations on FPVScores to ensure your events are accurately displayed. Locations (venues) need to be added before creating events, and you can edit them anytime if details change.",
+  "source": "@site/docs/organisations/locations.md",
+  "sourceDirName": "organisations",
+  "slug": "/organisations/locations",
+  "permalink": "/docs/organisations/locations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/organisations/locations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Organisation Settings",
+    "permalink": "/docs/organisations/organisation-settings"
+  },
+  "next": {
+    "title": "Sync Plugin",
+    "permalink": "/docs/category/sync-plugin"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "organisations/create-organisation",
+  "title": "Create Organisation",
+  "description": "Register your organisation on the FPVScores platform to start managing events and engaging with pilots.",
+  "source": "@site/docs/organisations/create-organisation.md",
+  "sourceDirName": "organisations",
+  "slug": "/organisations/create-organisation",
+  "permalink": "/docs/organisations/create-organisation",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/organisations/create-organisation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Organisations",
+    "permalink": "/docs/category/organisations"
+  },
+  "next": {
+    "title": "Organisation Settings",
+    "permalink": "/docs/organisations/organisation-settings"
+  }
+}

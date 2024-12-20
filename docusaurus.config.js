@@ -71,7 +71,7 @@ const config = {
         
           {to: '/docs/introduction', label: 'Introduction', position: 'left'},
           {to: '/docs/category/pilots', label: 'Pilots', position: 'left'},
-          {to: '/docs/category/event-manager', label: 'Event Manager', position: 'left'},
+          {to: '/docs/category/organisations', label: 'Event Manager', position: 'left'},
           {to: '/docs/category/sync-plugin', label: 'Sync Plugin', position: 'left'},
 
           {

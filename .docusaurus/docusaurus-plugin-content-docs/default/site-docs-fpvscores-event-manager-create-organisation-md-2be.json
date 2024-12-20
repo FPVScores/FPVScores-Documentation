@@ -1,7 +1,7 @@
 {
   "id": "fpvscores-event-manager/create-organisation",
   "title": "Create Organisation",
-  "description": "Let's register your organisation on the FPVScores Platform.",
+  "description": "Register your organisation on the FPVScores platform to start managing events and engaging with pilots.",
   "source": "@site/docs/fpvscores-event-manager/create-organisation.md",
   "sourceDirName": "fpvscores-event-manager",
   "slug": "/fpvscores-event-manager/create-organisation",
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/event-manager"
   },
   "next": {
-    "title": "Upload Logo",
-    "permalink": "/docs/fpvscores-event-manager/upload-logo"
+    "title": "Organisation Settings",
+    "permalink": "/docs/fpvscores-event-manager/organisation-settings"
   }
 }

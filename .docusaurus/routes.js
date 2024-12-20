@@ -3,25 +3,60 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '3d7'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '78b'),
+    component: ComponentCreator('/docs', 'da6'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '557'),
+        component: ComponentCreator('/docs', '347'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '2c5'),
+            component: ComponentCreator('/docs', 'b00'),
             routes: [
               {
-                path: '/docs/category/event-manager',
-                component: ComponentCreator('/docs/category/event-manager', 'db7'),
+                path: '/docs/category/organisations',
+                component: ComponentCreator('/docs/category/organisations', '6a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -38,38 +73,26 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/fpvscores-event-manager/add-location',
-                component: ComponentCreator('/docs/fpvscores-event-manager/add-location', 'bfa'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/fpvscores-event-manager/create-organisation',
-                component: ComponentCreator('/docs/fpvscores-event-manager/create-organisation', '145'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/fpvscores-event-manager/upload-logo',
-                component: ComponentCreator('/docs/fpvscores-event-manager/upload-logo', 'faf'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/fpvscores-sync-plugin/install',
-                component: ComponentCreator('/docs/fpvscores-sync-plugin/install', 'c99'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/fpvscores-sync-plugin/settings',
-                component: ComponentCreator('/docs/fpvscores-sync-plugin/settings', '931'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/introduction',
                 component: ComponentCreator('/docs/introduction', 'f7d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/organisations/create-organisation',
+                component: ComponentCreator('/docs/organisations/create-organisation', 'c17'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/organisations/locations',
+                component: ComponentCreator('/docs/organisations/locations', 'e51'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/organisations/organisation-settings',
+                component: ComponentCreator('/docs/organisations/organisation-settings', 'bd8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -94,6 +117,18 @@ export default [
               {
                 path: '/docs/pilots/set-pilot-osd',
                 component: ComponentCreator('/docs/pilots/set-pilot-osd', 'b2b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sync-plugin/install',
+                component: ComponentCreator('/docs/sync-plugin/install', 'ee8'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/sync-plugin/settings',
+                component: ComponentCreator('/docs/sync-plugin/settings', '05a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

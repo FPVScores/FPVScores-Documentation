@@ -1,0 +1,23 @@
+{
+  "id": "sync-plugin/settings",
+  "title": "Setup Plugin Settings",
+  "description": "The FPVScores Sync plugin houses a few settings. These are located under the FPVScores Sync section on the Format page within your RotorHazard server.",
+  "source": "@site/docs/sync-plugin/settings.md",
+  "sourceDirName": "sync-plugin",
+  "slug": "/sync-plugin/settings",
+  "permalink": "/docs/sync-plugin/settings",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/fpvscores/documentation/tree/main/docs/sync-plugin/settings.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Install Plugin",
+    "permalink": "/docs/sync-plugin/install"
+  }
+}

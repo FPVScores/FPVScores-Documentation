@@ -1,7 +1,7 @@
 {
   "id": "fpvscores-event-manager/add-location",
   "title": "Add Location",
-  "description": "Let's register your organisation on the FPVScores Platform.",
+  "description": "Before you can create an event, you need to add a location (venue) on the website. Don’t worry, it’s quick, easy, and only needs to be done once per location.",
   "source": "@site/docs/fpvscores-event-manager/add-location.md",
   "sourceDirName": "fpvscores-event-manager",
   "slug": "/fpvscores-event-manager/add-location",

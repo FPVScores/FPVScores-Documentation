@@ -3,23 +3,32 @@ sidebar_position: 1
 ---
 
 # Create Account
-The fun really starts after creating a pilot account on FPVScores.com.
+Start your FPV journey by creating a pilot account on FPVScores.com. Unlock features to enhance your racing experience and connect with the FPV community.
 
-## Why should I?
-Creating a pilot account on FPV Scores gives you multiple benefits within the FPV Scores platform.
+## Why Create an Account?
+Creating a pilot account on FPVScores offers numerous benefits, all designed to make your FPV experience smoother and more engaging:
 
-* Keep track of all your races
-* Showcase your pilot profile with avatar, country flag, hangar and rates (soon)
-* QRCode check-in during events
-* Subscribe to organisations and get notifications on new events (soon)
-* Create an organisation
-* It's 100% free!
+- **Track Your Races**: Easily monitor your race history and performance.
+- **Pilot Profile**: Showcase your avatar, country flag, hangar, and rates (coming soon).
+- **Event Check-In**: Use a QR code for quick and easy check-ins at events.
+- **Notifications**: Subscribe to organisations and receive notifications about new events (coming soon).
+- **Create an Organisation**: Start your own organisation and manage events.
+- **Completely Free**: Enjoy all features at no cost.
 
-## Where to register?
-You can easily register on [FPVScores Pilot Register](https://fpvscores.com/signup). After signing up you will receive an e-mail to verify and activate your account.
+## How to Register?
+Creating your account is simple:
 
+1. Go to the [FPVScores Pilot Register](https://fpvscores.com/signup).
+2. Fill out the registration form with your details.
+3. Check your email inbox and click the verification link to activate your account.
 
-:::warning[Password Special Characters]
-It's known that currently not all special characters are accepted by the system. When you run into issues just try to keep the use of special characters down to one of the following: ! # _ - .
+Once your account is verified, you're ready to dive into the FPVScores platform!
+
+:::warning Password Special Characters
+Currently, not all special characters are accepted in passwords. If you encounter issues, try limiting your use of special characters to one of the following: `! # _ - .`
 :::
 
+---
+
+### Ready to Fly?
+Don’t wait! Create your pilot account today and take your FPV experience to the next level.
